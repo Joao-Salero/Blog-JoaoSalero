@@ -1,2 +1,2 @@
 # Blog-JoaoSalero
- My blog about IA. (It's still in the oven!)
+ My blog about AI. (It's still in the oven!)
